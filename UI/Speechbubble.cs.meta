@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e5ede5bc100fa2d40a49643be6152bc4
+timeCreated: 1460635530
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BubbleImageComponent: {instanceID: 0}
+  - StateWaiting: {fileID: 2800000, guid: 956dc7c24d01a5f408ca7b74ac711bcf, type: 3}
+  - StateExploring: {fileID: 2800000, guid: 86f2e6592e53c3b4886e2e769c6fd48d, type: 3}
+  - StateWorking: {fileID: 2800000, guid: 72546f555b8341d41bf0013caa836966, type: 3}
+  - StateGoToMeeting: {fileID: 2800000, guid: dd61ae13a35af2f4a903b55d7914097b, type: 3}
+  - StateTalking: {fileID: 2800000, guid: 71bb8d0f6734a6d48bf64a8b4f5fa5a6, type: 3}
+  - StateDistributing: {fileID: 2800000, guid: 01edeb2b8d642084497b0fa09f6c1bf8, type: 3}
+  - StateVerifying: {fileID: 2800000, guid: 0b9ce868539b42845b3322e8ab10ccde, type: 3}
+  - StateExitMeeting: {fileID: 2800000, guid: 57564ebac694e294386fd86fab5b06d8, type: 3}
+  - StateDeath: {fileID: 2800000, guid: 44ac9abeafb19824790dc3f72ebdc7cc, type: 3}
+  - StateEating: {fileID: 2800000, guid: 005f6ad643e5c1e4cb5e8bfaf307c5fc, type: 3}
+  - StateFighting: {fileID: 2800000, guid: 3a1d740937e39b94c896f3e8a9abe63e, type: 3}
+  - Healthbar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
